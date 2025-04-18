@@ -1,0 +1,65 @@
+<VAST version="3.0">
+<Ad id="1579550-1-n" sequence="1">
+<InLine>
+<AdSystem>SpringServe</AdSystem>
+<AdTitle>mercedes_amg_CTVision_audio_only_power_on_6s-7506791</AdTitle>
+<Impression id="SpringServe_Impression_1">
+<![CDATA[ https://vid-io-dub.springserve.com/vd/i?event=vast_impression&ip=82.62.229.125&_disyn=1&ssid=fb0921c9-d641-472d-9b7a-e9230ff0d6d6.1744968246562&uuid=4659146d-8be9-41ea-9e75-95140d1b829b&did=57c70d24-0433-35af-7c00-8cadfac960c0&_rcc=bs.322830&d=&id=885133&a_cc=s.885133-d.1579550-sn.1-cv.1023965&cb=4659146d-8be9-41ea-9e75-95140d1b829b&timestamp=1744996704510&aid=2039&hc=99df86c080fb925911c68c285adf9435&_pi=778364&_j= ]]>
+</Impression>
+<Creatives>
+<Creative id="1023965">
+<Linear>
+<Duration>00:00:06</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://vid-io-dub.springserve.com/vd/i?event=js_start&dtid=1579550&a_cc=s.885133-d.1579550-sn.1-cv.1023965&cb=8240604365016&id=885133&aid=1&d=&w=&h=&cc=IT&uuid=4659146d-8be9-41ea-9e75-95140d1b829b&pp=&ip=82.62.229.125&_disyn=1&ssid=fb0921c9-d641-472d-9b7a-e9230ff0d6d6.1744968246562&did=57c70d24-0433-35af-7c00-8cadfac960c0&_rcc=bs.322830&ol=0&hc=99df86c080fb925911c68c285adf9435&_pi=778364&_j= ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://vid-io-dub.springserve.com/vd/i?event=js_first_quartile&dtid=1579550&a_cc=s.885133-d.1579550-sn.1-cv.1023965&cb=8240604365016&id=885133&aid=1&d=&w=&h=&cc=IT&uuid=4659146d-8be9-41ea-9e75-95140d1b829b&pp=&ip=82.62.229.125&_disyn=1&ssid=fb0921c9-d641-472d-9b7a-e9230ff0d6d6.1744968246562&did=57c70d24-0433-35af-7c00-8cadfac960c0&_rcc=bs.322830&ol=0&hc=99df86c080fb925911c68c285adf9435&_pi=778364&_j= ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://vid-io-dub.springserve.com/vd/i?event=js_midpoint&dtid=1579550&a_cc=s.885133-d.1579550-sn.1-cv.1023965&cb=8240604365016&id=885133&aid=1&d=&w=&h=&cc=IT&uuid=4659146d-8be9-41ea-9e75-95140d1b829b&pp=&ip=82.62.229.125&_disyn=1&ssid=fb0921c9-d641-472d-9b7a-e9230ff0d6d6.1744968246562&did=57c70d24-0433-35af-7c00-8cadfac960c0&_rcc=bs.322830&ol=0&hc=99df86c080fb925911c68c285adf9435&_pi=778364&_j= ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://vid-io-dub.springserve.com/vd/i?event=js_third_quartile&dtid=1579550&a_cc=s.885133-d.1579550-sn.1-cv.1023965&cb=8240604365016&id=885133&aid=1&d=&w=&h=&cc=IT&uuid=4659146d-8be9-41ea-9e75-95140d1b829b&pp=&ip=82.62.229.125&_disyn=1&ssid=fb0921c9-d641-472d-9b7a-e9230ff0d6d6.1744968246562&did=57c70d24-0433-35af-7c00-8cadfac960c0&_rcc=bs.322830&ol=0&hc=99df86c080fb925911c68c285adf9435&_pi=778364&_j= ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://vid-io-dub.springserve.com/vd/i?event=js_complete&dtid=1579550&a_cc=s.885133-d.1579550-sn.1-cv.1023965&cb=8240604365016&id=885133&aid=1&d=&w=&h=&cc=IT&uuid=4659146d-8be9-41ea-9e75-95140d1b829b&pp=&ip=82.62.229.125&_disyn=1&ssid=fb0921c9-d641-472d-9b7a-e9230ff0d6d6.1744968246562&did=57c70d24-0433-35af-7c00-8cadfac960c0&_rcc=bs.322830&ol=0&hc=99df86c080fb925911c68c285adf9435&_pi=778364&_j= ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[ https://vid-io-dub.springserve.com/vd/i?event=js_click&dtid=1579550&a_cc=s.885133-d.1579550-sn.1-cv.1023965&cb=1485237793959&id=885133&aid=1&d=&w=&h=&cc=IT&uuid=4659146d-8be9-41ea-9e75-95140d1b829b&pp=&ip=82.62.229.125&_disyn=1&ssid=fb0921c9-d641-472d-9b7a-e9230ff0d6d6.1744968246562&did=57c70d24-0433-35af-7c00-8cadfac960c0&_rcc=bs.322830&ol=0&hc=99df86c080fb925911c68c285adf9435&_pi=778364&_j= ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile bitrate="320" delivery="progressive" type="audio/mpeg">
+<![CDATA[ https://assets.springserve.com/audio_creatives/001/023/965/mercedes_amg_CTVision_audio_only_power_on_6s-7506791.mp3 ]]>
+</MediaFile>
+<MediaFile bitrate="256" delivery="progressive" type="audio/mpeg">
+<![CDATA[ https://assets.springserve.com/audio_creatives/001/023/965/mercedes_amg_CTVision_audio_only_power_on_6s-7506790.mp3 ]]>
+</MediaFile>
+<MediaFile bitrate="192" delivery="progressive" type="audio/mpeg">
+<![CDATA[ https://assets.springserve.com/audio_creatives/001/023/965/mercedes_amg_CTVision_audio_only_power_on_6s-7506789.mp3 ]]>
+</MediaFile>
+<MediaFile bitrate="160" delivery="progressive" type="audio/mpeg">
+<![CDATA[ https://assets.springserve.com/audio_creatives/001/023/965/mercedes_amg_CTVision_audio_only_power_on_6s-7506788.mp3 ]]>
+</MediaFile>
+<MediaFile bitrate="128" delivery="progressive" type="audio/mpeg">
+<![CDATA[ https://assets.springserve.com/audio_creatives/001/023/965/mercedes_amg_CTVision_audio_only_power_on_6s-7506787.mp3 ]]>
+</MediaFile>
+<MediaFile bitrate="64" delivery="progressive" type="audio/mpeg">
+<![CDATA[ https://assets.springserve.com/audio_creatives/001/023/965/mercedes_amg_CTVision_audio_only_power_on_6s-7506786.mp3 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="springserve">
+<SpringServeCreativeId>99df86c080fb925911c68c285adf9435</SpringServeCreativeId>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
