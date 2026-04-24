@@ -1,0 +1,18 @@
+{
+  "packageName": "com.hoppr.androidtv.thumper.prodtvdebuggable",
+  "versionCode": 40700056,
+  "apkUrl": "https://github.com/HopprTvMicheleGarattini/creatives/blob/main/hopprtv_prodtvdebuggable_4.7.0.56.apk",
+  "md5": "99b634bad426ce683aa67a90f98b2057",
+  "signatureCertSha256": "d33b043e35401fac575182e87e18c6545db39c35215397da008da1f77c5a14e2",
+  "actions": {
+    "installOrUpdate": true,
+    "delete": false,
+    "grantPermissions": true,
+    "launch": true
+  },
+  "permissions": [
+    "android.permission.WRITE_SECURE_SETTINGS",
+    "android.permission.SYSTEM_ALERT_WINDOW",
+    ],
+  "removePackages": []
+}
